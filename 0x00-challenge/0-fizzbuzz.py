@@ -27,8 +27,7 @@ def fizzbuzz(n):
         elif i % 5 == 0:
             results.append("Buzz")
         else:
-            results.append(str(i)
-    
+            results.append(str(i) 
     print(" ".join(results))
 
 if __name__ == '__main__':
